@@ -3,9 +3,11 @@ PROJETO
 
 👥 COLABORADORES
 
-William
-Nicolas Castro
-Maria Vitoria
+-William
+
+-Nicolas Castro
+
+-Maria Vitoria
 
 !!MARCA
 LOCALPETS
