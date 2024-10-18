@@ -37,31 +37,38 @@ b. Daily Stand-up
 7. Manutenção (Contínua)
 
 💲ORÇAMENTO
+
 30.000,00 seria o orçamento inicial do projeto visando o uso do google maps
 e outros meios de aplicação com desing, foruns.
 planos de serviços: basic care, premium care e standart care.
 com descontos nos membros parceiros.
 
 📅 PRAZO
+
 Nós teríamos 1 Semestre para realizar a conclusão do aplicativo.
 
 ⚙ FERRAMENTAS
+
 Google Maps.
 Rastreamento em tempo real.
 IDE de desenvolvimento de linguagem Kotlin
 Bando de dados relacional em nuvem (AWS Cloud)
 
 💫 PÚBLICO ALVO
+
 Pessoas com animais perdidos.
 Pessoas que tem interesse em ajudar.
 Donos de Pets em geral.
 
 📖PÁGINAS A SEREM EXECUTADAS
+
 Página inicial intuitiva com poucos objetos interativos
 menu de entrada aberta com localizador ocupando metade da tela, menu de opçoes com tres icones abaixo
 icones de do menu: FORUM, LOCALIZADOR E ABA DE CUIDADOS
+
 FORUM: onde cuidadores e comunidade podem se comunicar de forma rapida e transparente onde ouve a perda
 de animais onde encontrar sendo um chat aberto
+
 LOCALIZADOR: ONDE OS CUIDADORES PODEM TER UMA LOCALIZAÇAO EM TEMPO REAL DO SEU PET.
 ABA DE CUIDADOS: PETSHOOP parceiro, shopping para o pets, calendario de vacinas, tratamento dentario,
 nutricionista
