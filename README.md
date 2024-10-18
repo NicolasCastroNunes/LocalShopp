@@ -11,6 +11,7 @@ Maria Vitoria
 LOCALPETS
 
 ✅ OBJETIVO
+
 Nosso objetivo com esse aplicativo é a procura de animais perdidos
 e também a localização atual dos seus pets, assim despreocupando os donos.
 Metodologias
